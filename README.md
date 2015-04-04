@@ -3,7 +3,7 @@
 
 Stores matches results and goals (minute, player's name, team, own goals, penalty goals, player assist) for more than 100 leagues.
 
-- It uses a MySQL Database for storing data (pending upload).
+- It uses a MySQL Database for storing data.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
